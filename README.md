@@ -15,4 +15,4 @@ HeartCheck is a machine learning model designed to predict the risk of heart dis
 - **Output:** A prediction of whether the individual has heart disease.
 
 ## License
-- This project is licensed under the MIT License.
+This project is licensed under the MIT License.
